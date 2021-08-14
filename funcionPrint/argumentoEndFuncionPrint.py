@@ -1,0 +1,10 @@
+print('Sipac',end='\n\n') #Aunque no se muestra la instruccion print agrega el caracter de salto de linea al final.
+print('Tocay',end='\n\n')
+print('Raxon',end='\n\n')
+print('Guzman',end='\n\n')
+print('Vaquin',end='\n\n')
+print('Estrada',end='\n\n')
+print('Cortez',end='\n\n')
+print('Argueta',end='\n\n')
+print('Ozaeta',end='\n\n')
+print('Najera')
